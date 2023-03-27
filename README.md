@@ -25,5 +25,8 @@ Part 2: Train an image classification model – We should be able to create an i
 
 Part 3: Make predictions – We should be able to detect faces on images and make predictions on whether or not the person is wearing a face mask using our trained image classification model.
 
+**Fourth Project "Sign Language Classification using python"**
+Sign language is manual communication commonly used by people who are deaf. Sign language is not universal; people who are deaf from different countries speak different sign languages. The gestures or symbols in sign language are organized in a linguistic way. Each individual gesture is called a sign.
 
+We will classify the sign language symbols using the Convolutional Neural Network (CNN). After successful training of the CNN model, the corresponding alphabet of a sign language symbol will be predicted.
 
